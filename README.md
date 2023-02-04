@@ -34,14 +34,14 @@ For this dataset, there are 8,523 rows and 12 columns
 
 ### Exploratory Data Analysis
 
- `- During the exploratory data analysis, a bar chart and histogram were used to visualize the quantities of Outlet Sizes and Average Sales
- - This provides a better understanding of the quantity of each for comparisons later.`
+ - During the exploratory data analysis, a bar chart and histogram were used to visualize the quantities of Outlet Sizes and Average Sales
+ - This provides a better understanding of the quantity of each for comparisons later.
  
  <p align = "center"> 
   <img src = "https://github.com/jamesbelk0/sales_predictions/blob/d8294734469af5fb95f3c375ab6f771c52e31d7c/Average_Sale_Size.png">
 </p>
 
-This shows the most sales are sold through the Medium Outlet Size compared to the High and Small. Ruling out an ordinal approach.
+ - This shows the most sales are sold through the Medium Outlet Size compared to the High and Small. Ruling out an ordinal approach.
 
 ## Explanatory Visuals
 
