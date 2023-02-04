@@ -9,15 +9,14 @@
 
 ### Business problem:
 
-Discover the sales per Outlet Size while keeping 
-
+Discover the sales per Outlet Size and Type
 
 ### Data:
 Big Mart Data - https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About
 For this dataset, there are 8,523 rows and 12 columns
 
 ### Data Dictionary:
-`
+
 * Item_Identifier - Unique product ID
 * Item_Weight - Weight of product
 * Item_Fat_Content - Whether the product is low fat or regular
@@ -30,14 +29,13 @@ For this dataset, there are 8,523 rows and 12 columns
 * Outlet_Location_Type - The type of area in which the store is located
 * Outlet_Type - Whether the outlet is a grocery store or some sort of supermarket
 * Item_Outlet_Sales - Sales of the product in the particular store. This is the target variable to be predicted.
-`
-
 
 ## To prepare this data, the data was cleaned of extra rows and unneeded columns.The following processes were performed:
 
 ### Exploratory Data Analysis
- - During the exploratory data analysis, a bar chart and histogram were used to visualize the quantities of Outlet Sizes and Average Sales
- - This provides a better understanding of the quantity of each for comparisons later. 
+
+ `- During the exploratory data analysis, a bar chart and histogram were used to visualize the quantities of Outlet Sizes and Average Sales
+ - This provides a better understanding of the quantity of each for comparisons later.`
  
  <p align = "center"> 
   <img src = "https://github.com/jamesbelk0/sales_predictions/blob/d8294734469af5fb95f3c375ab6f771c52e31d7c/Average_Sale_Size.png">
