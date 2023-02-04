@@ -1,7 +1,11 @@
-# Bigmart Sales Predictions
+# Big-Mart Sales Predictions
 ## Discovering the item sales per Outlet type and Size
 
 **James Belk**: 
+
+<p align = "center"> 
+  <img src = "https://github.com/jamesbelk0/sales_predictions/blob/39b13cb3d373d922ba6e04f66b74ed0edf828ede/grocery_store.png">
+</p>
 
 ### Business problem:
 
