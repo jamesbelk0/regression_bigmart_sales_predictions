@@ -79,7 +79,7 @@ This shows the breakdown of the total of Outlet Sizes
   - RMSE: 1,082.6662 
   - R2: 0.6039
  
- - The final model chose was a `Tuned Decision Tree` with the max_depth tuned to 5.
+ - The final model chosen was a `Tuned Decision Tree` with the max_depth tuned to 5.
  - The Mean Absolute Error was off by about `24.40`.
  - The Mean Squared Error was `54,007`.
  - The Root Meaqn Squared Error had a calculation of `25.2354`.
